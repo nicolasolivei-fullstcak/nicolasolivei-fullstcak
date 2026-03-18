@@ -46,9 +46,13 @@ Gestão Industrial: Conhecimentos aplicados em Metodologia 5G, Indústria 4.0 e 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Documentação](https://img.shields.io/badge/Documentação-000000?style=for-the-badge&logo=readthedocs&logoColor=white)
+![CLP](https://img.shields.io/badge/CLP-00457C?style=for-the-badge&logo=siemens&logoColor=white)
+![IHM](https://img.shields.io/badge/IHM-FF6F00?style=for-the-badge&logo=ifm&logoColor=white)
+
 ## 📊 Estatísticas do GitHub
 ![SeuNome GitHub stats](https://github-readme-stats.vercel.app/api?username=seunomedeusuario&show_icons=true&theme=dracula)
 
